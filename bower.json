@@ -1,0 +1,15 @@
+{
+    "name": "roommateservice",
+    "version": "0.0.0",
+    "homepage": "",
+    "authors": [
+        "florian jeanmart"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "jquery": "1.11.*",
+        "angular": "1.2.26",
+        "highcharts": "~4.0.3"
+    }
+}

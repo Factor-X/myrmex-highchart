@@ -1,0 +1,11 @@
+Run the pahntomjs server with the following command line :
+
+phantomjs ./public/phantomjs/highcharts/highcharts-convert.js -host 127.0.0.1 -port 3000
+
+
+DOC:
+highcharts options details :
+http://api.highcharts.com/highcharts#chart
+
+highchart & phantomJs :
+http://www.highcharts.com/component/content/article/2-articles/news/52-serverside-generated-charts
